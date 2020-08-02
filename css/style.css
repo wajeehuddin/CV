@@ -1,0 +1,73 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+
+   }
+h1{
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+.top-container{
+  background-color: #63b7af;
+  position: relative;
+  padding-top: 100px;
+
+
+}
+
+
+.pro{
+  text-decoration: underline;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+table{
+  position: relative;
+  margin: 0px 100px 40px 400px;
+
+}
+hr{
+  background-color: none;
+  border-style: none;
+  display: inline-block;
+  border-top-style: dotted;
+  border-color: grey;
+  border width: 5px;
+  width: 10%;
+
+  }
+  .middle-container{
+    background-color: #abf0e9;
+  }
+  .Education{
+    background-color: #d4f3ef;
+  }
+  .study-experience{
+    background-color: #ee8572;
+  }
+  .Skills{
+    background-color: #e97171;
+  }
+  .contact-me{
+    background-color: #ffcb8e;
+  }
+  .bottom-container{
+    background-color: #f5efef;
+  }
